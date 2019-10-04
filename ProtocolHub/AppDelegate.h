@@ -1,0 +1,16 @@
+//
+//  AppDelegate.h
+//  ProtocolHub
+//
+//  Created by YLCHUN on 2019/10/1.
+//  Copyright © 2019 YLCHUN. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
