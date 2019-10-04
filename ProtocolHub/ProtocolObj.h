@@ -10,7 +10,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 @protocol ProtocolObjDelegate <NSObject>
-
 - (void)requiredFunc;
 @optional
 - (int)optionalFunc:(int)i;

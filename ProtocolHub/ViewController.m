@@ -27,9 +27,10 @@
         [self.objs addObject:obj];
         [self.hub addOutput:obj];
     }
-    [self.hub addOutput:[ProtocolObj class]];
+    
     int i = [self.hub optionalFunc:1];
     [self.hub requiredFunc];
+    
     NSLog(@"");
     // Do any additional setup after loading the view.
 }

@@ -16,6 +16,7 @@
 		A910E10B23435B1D00E18FA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A910E10A23435B1D00E18FA1 /* main.m */; };
 		A910E11323435B2C00E18FA1 /* ProtocolHub.mm in Sources */ = {isa = PBXBuildFile; fileRef = A910E11123435B2C00E18FA1 /* ProtocolHub.mm */; };
 		A910E11623435BAA00E18FA1 /* ProtocolObj.m in Sources */ = {isa = PBXBuildFile; fileRef = A910E11523435BAA00E18FA1 /* ProtocolObj.m */; };
+		A9B781EF2346ED5600027959 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A9B781EE2346ED5500027959 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		A910E11223435B2C00E18FA1 /* ProtocolHub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProtocolHub.h; sourceTree = "<group>"; };
 		A910E11423435BAA00E18FA1 /* ProtocolObj.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ProtocolObj.h; sourceTree = "<group>"; };
 		A910E11523435BAA00E18FA1 /* ProtocolObj.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ProtocolObj.m; sourceTree = "<group>"; };
+		A9B781EE2346ED5500027959 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		A910E0F723435B1B00E18FA1 /* ProtocolHub */ = {
 			isa = PBXGroup;
 			children = (
+				A9B781EE2346ED5500027959 /* README.md */,
 				A910E1382343859600E18FA1 /* ProtocolHub */,
 				A910E0F823435B1B00E18FA1 /* AppDelegate.h */,
 				A910E0F923435B1B00E18FA1 /* AppDelegate.m */,
@@ -153,6 +156,7 @@
 			files = (
 				A910E10823435B1D00E18FA1 /* LaunchScreen.storyboard in Resources */,
 				A910E10523435B1D00E18FA1 /* Assets.xcassets in Resources */,
+				A9B781EF2346ED5600027959 /* README.md in Resources */,
 				A910E10323435B1B00E18FA1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
